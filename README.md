@@ -9,9 +9,9 @@
 |------|------|
 | 이름 | 최호준 |
 | 전공 | 단국대학교 소프트웨어학과 |
-| 이메일 | example@gmail.com |
+| 이메일 | chjspd@gmail.com |
 | GitHub | [https://github.com/helloiamhojun](https://github.com/helloiamhojun) |
-| 연락처 | 010-XXXX-XXXX |
+| 연락처 | 010-5495-4025 |
 
 ---
 
